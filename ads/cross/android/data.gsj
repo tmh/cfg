@@ -1,14 +1,14 @@
 {
   "dV": 0,
-  "r": "com.game.gigalaxy",
+  "pR": "play.google.com",
+  "dR": "gigalaxy",
+  "aR": "game",
   "dD": {
     "0": {
-      "r": "",
       "iD": ".footconnect",
       "img": "footconnect.png",
       "aD": {
         "0": {
-          "r": "",
           "iD": ".footconnect",
           "img": "footconnect.png"
         }
