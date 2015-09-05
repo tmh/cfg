@@ -1,0 +1,18 @@
+{
+  "dV": 0,
+  "r": "com.game.gigalaxy",
+  "dD": {
+    "0": {
+      "r": "",
+      "iD": ".footconnect",
+      "img": "footconnect.png",
+      "aD": {
+        "0": {
+          "r": "",
+          "iD": ".footconnect",
+          "img": "footconnect.png"
+        }
+      }
+    }
+  }
+}
