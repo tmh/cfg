@@ -1,16 +1,33 @@
 {
   "dV": 0,
-  "pR": "play.google.com",
-  "dR": "gigalaxy",
-  "aR": "game",
+  "pR": "https://play.google.com/store/apps/",
+  "dR": "dev?id=",
+  "aR": "details?id=",
   "dD": {
     "0": {
-      "iD": ".footconnect",
-      "img": "footconnect.png",
+      "dDV": 0,
+      "dID": "6087298870063532480",
+      "dIL": "https://developer.android.com/images/brand/en_generic_rgb_wo_45.png",
       "aD": {
         "0": {
-          "iD": ".footconnect",
-          "img": "footconnect.png"
+          "aDV": 0,
+          "aID": "com.gigalaxy.game.footballfighter",
+          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Judge-icon.png"
+        },
+        "1": {
+          "aDV": 0,
+          "aID": "com.gigalaxy.game.footballfighter",
+          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Notary-icon.png"
+        },
+        "2": {
+          "aDV": 0,
+          "aID": "com.gigalaxy.game.footballfighter",
+          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Gavel-Law-icon.png"
+        },
+        "3": {
+          "aDV": 0,
+          "aID": "com.gigalaxy.game.footballfighter",
+          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Jury-Law-icon.png"
         }
       }
     }
