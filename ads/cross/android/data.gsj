@@ -10,7 +10,7 @@
       "dIL": "https://developer.android.com/images/brand/en_generic_rgb_wo_45.png",
       "aD": {
         "0": {
-          "aDV": 0,
+          "aDV": 1,
           "aID": "com.gigalaxy.game.footballfighter",
           "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Judge-icon.png"
         },
@@ -25,7 +25,7 @@
           "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Gavel-Law-icon.png"
         },
         "3": {
-          "aDV": 0,
+          "aDV": 1,
           "aID": "com.gigalaxy.game.footballfighter",
           "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Jury-Law-icon.png"
         }
