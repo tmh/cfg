@@ -1,12 +1,12 @@
 {
   "dV": 0,
-  "pR": "https://play.google.com/store/apps/",
-  "dR": "dev?id=",
+  "pR": "market://",
+  "dR": "search?q=pub:",
   "aR": "details?id=",
   "dD": {
     "0": {
       "dDV": 0,
-      "dID": "6087298870063532480",
+      "dID": "GiGalaxy",
       "dIL": "https://lh3.googleusercontent.com/-u0os5uWlz0o/Vg5R-40EkyI/AAAAAAAAAMc/CKJSHO0YQ6k/s192-Ic42/gigalaxy.png",
       "aD": {
         "0": {
