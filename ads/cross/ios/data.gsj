@@ -1,33 +1,28 @@
 {
   "dV": 0,
-  "pR": "https://play.google.com/store/apps/",
-  "dR": "dev?id=",
-  "aR": "details?id=",
+  "pR": "itms://itunes.apple.com/",
+  "dR": "artist/id",
+  "aR": "app/apple-store/id",
   "dD": {
     "0": {
       "dDV": 0,
-      "dID": "6087298870063532480",
-      "dIL": "https://developer.android.com/images/brand/en_generic_rgb_wo_45.png",
+      "dID": "858990984",
+      "dIL": "https://lh3.googleusercontent.com/-u0os5uWlz0o/Vg5R-40EkyI/AAAAAAAAAMc/CKJSHO0YQ6k/s192-Ic42/gigalaxy.png",
       "aD": {
         "0": {
           "aDV": 0,
-          "aID": "com.gigalaxy.game.footballfighter",
-          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Judge-icon.png"
+          "aID": "974089450",
+          "aIL": "https://lh3.googleusercontent.com/-EzphhWlJ4k0/Vg5R-lQzpcI/AAAAAAAAAMY/90TT1B7GnV0/s192-Ic42/onet_connect.png"
         },
         "1": {
           "aDV": 0,
-          "aID": "com.gigalaxy.game.footballfighter",
-          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Notary-icon.png"
+          "aID": "956572876",
+          "aIL": "https://lh3.googleusercontent.com/-ijjsqEn1rt0/Vg5R_SRLksI/AAAAAAAAAMo/f8KiLa5kpvM/s192-Ic42/popgem.png"
         },
         "2": {
           "aDV": 0,
-          "aID": "com.gigalaxy.game.footballfighter",
-          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Gavel-Law-icon.png"
-        },
-        "3": {
-          "aDV": 0,
-          "aID": "com.gigalaxy.game.footballfighter",
-          "aIL": "http://icons.iconarchive.com/icons/lawyerwordpress/law/128/Jury-Law-icon.png"
+          "aID": "858990981",
+          "aIL": "https://lh3.googleusercontent.com/-az8MLvlM_cM/Vg5Zp9PUWiI/AAAAAAAAANY/P53Jq75BNGw/s192-Ic42/parcheesi.png"
         }
       }
     }
