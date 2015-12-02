@@ -1,5 +1,5 @@
 {
-  "dV": 0,
+  "dV": 1,
   "pR": "market://",
   "dR": "search?q=pub:",
   "aR": "details?id=",
@@ -28,6 +28,11 @@
           "aDV": 0,
           "aID": "com.gigalaxy.game.footballfighter",
           "aIL": "https://lh3.googleusercontent.com/-_Isz1wl_M-U/Vg5R-8mZCiI/AAAAAAAAAMk/G9731PHIKEY/s192-Ic42/football_fighter.png"
+        },
+        "4": {
+          "aDV": 0,
+          "aID": "com.gigalaxy.game.ninja.food",
+          "aIL": "https://lh3.googleusercontent.com/-I8ppQ1r4waI/Vl8Op7N36KI/AAAAAAAAANw/hawGY6DMiZA/s192-Ic42/food_ninja.png"
         }
       }
     }
